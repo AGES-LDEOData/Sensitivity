@@ -1,0 +1,88 @@
+{
+    "acquisition_software": "Pychron17.7(Exp0.2,DVC0.1)", 
+    "aliquot": 1, 
+    "analysis_type": "unknown", 
+    "analyst_name": "", 
+    "comment": "", 
+    "commit": "4a10ee7fbbcec275661bd702e44a7a6387fe5d3e", 
+    "conditionals": null, 
+    "data_reduction_software": "Pychron17.7(DVC0.1)", 
+    "detectors": {
+        "AX": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "H1": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "H2": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "L1": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "L2": {
+            "deflection": null, 
+            "gain": null
+        }
+    }, 
+    "environmental": {
+        "lab_humiditys": [], 
+        "lab_pneumatics": [], 
+        "lab_temperatures": []
+    }, 
+    "experiment_queue_name": "Load3", 
+    "extraction": "ngx_co2.py", 
+    "identifier": "GLO-01", 
+    "increment": null, 
+    "instrument_name": "", 
+    "intensity_scalar": 0.0, 
+    "irradiation": "NoIrradiation", 
+    "irradiation_level": "A", 
+    "irradiation_position": 5, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2", 
+            "name": "Ar36"
+        }, 
+        "Ar37": {
+            "detector": "L1", 
+            "name": "Ar37"
+        }, 
+        "Ar38": {
+            "detector": "AX", 
+            "name": "Ar38"
+        }, 
+        "Ar39": {
+            "detector": "H1", 
+            "name": "Ar39"
+        }, 
+        "Ar40": {
+            "detector": "H2", 
+            "name": "Ar40"
+        }
+    }, 
+    "laboratory": "", 
+    "mass_spectrometer": "Ngx", 
+    "material": "glauconite", 
+    "measurement": "ngx_unknown.py", 
+    "post_equilibration": "ngx_pump_unknown.py", 
+    "post_measurement": "ngx_pump_ms.py", 
+    "project": "Sensitivity", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "Sensitivity", 
+    "sample": "GLO", 
+    "source": {
+        "emission": 1797.58, 
+        "trap": 200.02728
+    }, 
+    "spec_sha": "da39a3ee5e6b4b0d3255bfef95601890afd80709", 
+    "timestamp": "2018-02-02T15:02:48.610145", 
+    "tripped_conditional": null, 
+    "username": "", 
+    "uuid": "2c24c04f-8e6e-4fc7-8a76-b93529cc1a40", 
+    "whiff_result": null
+}
