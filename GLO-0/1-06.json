@@ -1,0 +1,100 @@
+{
+    "acquisition_software": "pychron py3/18.2",
+    "aliquot": 6,
+    "analysis_type": "unknown",
+    "analyst_name": "root",
+    "collection_version": "1.0:1.0",
+    "comment": "",
+    "commit": "93569fcf33653ba59c492dad0c4b3a2aed34f0da",
+    "conditionals": null,
+    "data_reduction_software": "pychron py3/18.2",
+    "detectors": {
+        "AX": {
+            "deflection": null,
+            "gain": null
+        },
+        "H1": {
+            "deflection": null,
+            "gain": null
+        },
+        "H2": {
+            "deflection": null,
+            "gain": null
+        },
+        "L1": {
+            "deflection": null,
+            "gain": null
+        },
+        "L2": {
+            "deflection": null,
+            "gain": null
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [],
+        "lab_pneumatics": [],
+        "lab_temperatures": []
+    },
+    "experiment_queue_name": "Crusher_Test",
+    "extraction": "ngx_close.py",
+    "identifier": "GLO-01",
+    "increment": null,
+    "instrument_name": "",
+    "intensity_scalar": 0.0,
+    "irradiation": "NoIrradiation",
+    "irradiation_level": "A",
+    "irradiation_position": 5,
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2",
+            "name": "Ar36",
+            "serial_id": "00000"
+        },
+        "Ar36L1": {
+            "detector": "L1",
+            "name": "Ar36",
+            "serial_id": "00000"
+        },
+        "Ar37": {
+            "detector": "L1",
+            "name": "Ar37",
+            "serial_id": "00000"
+        },
+        "Ar38": {
+            "detector": "AX",
+            "name": "Ar38",
+            "serial_id": "00000"
+        },
+        "Ar39": {
+            "detector": "H1",
+            "name": "Ar39",
+            "serial_id": "00000"
+        },
+        "Ar40": {
+            "detector": "H2",
+            "name": "Ar40",
+            "serial_id": "00000"
+        }
+    },
+    "laboratory": "",
+    "mass_spectrometer": "Ngx",
+    "material": "glauconite",
+    "measurement": "ngx_ar_multi_hop.py",
+    "post_equilibration": "ngx_pump_air.py",
+    "post_measurement": "ngx_pump_ms.py",
+    "principal_investigator": "AGES-LDEO",
+    "project": "Sensitivity",
+    "queue_conditionals_name": "",
+    "repository_identifier": "Sensitivity",
+    "sample": "GLO",
+    "source": {
+        "emission": 1669.21,
+        "trap": 200.02469
+    },
+    "spec_sha": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "timestamp": "2018-08-29T19:16:30.884504",
+    "tripped_conditional": null,
+    "username": "root",
+    "uuid": "ac09c7e2-86c2-40b3-8068-8ebfcad20f19",
+    "whiff_result": null
+}
