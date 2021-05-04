@@ -1,0 +1,32 @@
+{
+    "beam_diameter": "3.0",
+    "cleanup_duration": 600.0,
+    "commit": "3c9242facc8aff5a07c04d4fe2bf09d83c1036fb",
+    "extract_device": "Chromium CO2",
+    "extract_duration": 60.0,
+    "extract_units": "watts",
+    "extract_value": 0.6,
+    "grain_polygons": [],
+    "light_value": 0,
+    "load_holder": "",
+    "load_name": "84",
+    "measured_response": null,
+    "pattern": "",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": "6",
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": null,
+    "setpoint_stream": null,
+    "snapshots": [],
+    "tray": "",
+    "videos": [],
+    "weight": 0
+}
