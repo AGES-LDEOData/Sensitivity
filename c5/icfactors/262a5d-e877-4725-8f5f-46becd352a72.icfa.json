@@ -24,9 +24,62 @@
         "value": 1.0
     },
     "L4": {
-        "error": 0.0,
-        "fit": "default",
-        "references": [],
-        "value": 1.756831e-08
+        "error": 1.3500403892383199e-11,
+        "fit": "Average",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-03-N-4341",
+                "uuid": "bf04e357-2ea9-409f-9f47-a22676fa7e08"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-N-4342",
+                "uuid": "36acda0b-cdba-472c-83e8-c9b3c0ae536c"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-N-4343",
+                "uuid": "4471770a-4b14-4f38-a057-4170ba810cfe"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-N-4345",
+                "uuid": "a38982df-351d-4ca6-bb72-692c106922a4"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-N-4346",
+                "uuid": "b8f3835d-3b9c-472e-9c9b-b01ddca73e39"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-N-4347",
+                "uuid": "e20f02a5-8cfd-408c-8ace-a70cd447d0f6"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-N-4348",
+                "uuid": "c54cf676-369e-4f5d-8a4a-3370531a3761"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-N-4349",
+                "uuid": "222d751c-8b5b-451a-a965-0a6aa2855aba"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-N-4350",
+                "uuid": "17787838-658f-4ba6-b43c-fed87d96e082"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-N-4351",
+                "uuid": "5d09f8fe-5d6d-4349-aa90-32f67fb1272a"
+            }
+        ],
+        "reviewed": true,
+        "standard_ratio": 298.56,
+        "value": 1.767539759297852e-08
     }
 }
