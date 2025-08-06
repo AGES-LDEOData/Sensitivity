@@ -1,0 +1,38 @@
+{
+    "beam_diameter": "",
+    "cleanup_duration": 300.0,
+    "commit": "06b9e1aff96b0884536ee5ff0ce5c9a2d87c62d4",
+    "cryo_temperature": 0.0,
+    "extract_device": "Chromium CO2",
+    "extract_duration": 30.0,
+    "extract_units": "watts",
+    "extract_value": 0.1,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0,
+    "load_holder": "25-spot-disk",
+    "load_name": "126",
+    "measured_response": null,
+    "pattern": "",
+    "pipette_counts": [],
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 17,
+            "x": -7.236,
+            "y": 7.736,
+            "z": 0.0
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": null,
+    "setpoint_stream": null,
+    "snapshots": [],
+    "timestamp": "2025-08-05T21:34:58.701131",
+    "tray": "25-spot-disk",
+    "videos": [],
+    "weight": 0
+}
