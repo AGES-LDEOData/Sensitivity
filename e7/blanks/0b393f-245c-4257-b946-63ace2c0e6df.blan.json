@@ -1,8 +1,8 @@
 {
     "Ar36": {
-        "error": 30.198283976410526,
+        "error": 9.906519249637363,
         "error_type": "",
-        "fit": "Linear_SEM",
+        "fit": "Average_SEM",
         "references": [
             {
                 "exclude": "ok",
@@ -56,7 +56,7 @@
             }
         ],
         "reviewed": true,
-        "value": 353.31604503701465
+        "value": 314.3417573248487
     },
     "Ar37": {
         "error": 2.3305546271166202e-07,
@@ -236,9 +236,9 @@
         "value": 5.988860589845046e-07
     },
     "Ar40": {
-        "error": 1.775263953669154e-10,
+        "error": 5.389779344657275e-05,
         "error_type": "",
-        "fit": "Linear_SEM",
+        "fit": "Average_SEM",
         "references": [
             {
                 "exclude": "ok",
@@ -292,6 +292,6 @@
             }
         ],
         "reviewed": true,
-        "value": 0.0018773018843188639
+        "value": 0.0016815200892717499
     }
 }
